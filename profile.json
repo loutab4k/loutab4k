@@ -1,0 +1,20 @@
+{
+  "username": "loutab4k",
+  "display_name": "loutab4k",
+  "portrait": "assets/portrait-ascii.png",
+  "role": "DevSecOps & Software Engineer",
+  "website": "",
+  "operating_systems": ["macOS", "Arch Linux", "Android"],
+  "ide": "Zed",
+  "editor": "Neovim",
+  "languages_programming": ["TypeScript", "Go", "Python"],
+  "languages_other": ["HTML", "CSS", "JSON", "YAML", "Bash"],
+  "languages_spoken": ["Russian", "English"],
+  "email": "d1m0n4ek@proton.me",
+  "discord": "@loutab4k",
+  "interests": {
+    "mindset": "Deep thinking & polishing every detail",
+    "systems": "OS customization, ricing & engineering",
+    "learning": "LLMs, lifelong learning & how things work"
+  }
+}
